@@ -19,4 +19,4 @@ input("the number is : ")
 a= input("the number a is : ")
 b= input("the number b is : ")
 print(int(a)*int(b))  #类似于类型转换
-
+##for test git
